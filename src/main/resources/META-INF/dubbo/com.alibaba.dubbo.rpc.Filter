@@ -1,0 +1,2 @@
+ConsumerCatLogFilter=com.dominic.cat.filter.filters.dubbo.ConsumerCatFilter
+ProviderCatLogFilter=com.dominic.cat.filter.filters.dubbo.ProviderCatFilter

@@ -1,0 +1,8 @@
+
+# Application Context Initializers
+org.springframework.context.ApplicationContextInitializer=\
+com.dominic.cat.filter.config.CatFilterContextInitializer
+
+# Application Listeners
+org.springframework.context.ApplicationListener=\
+com.dominic.cat.filter.config.CatFilterListener
